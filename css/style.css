@@ -74,7 +74,7 @@ hr {
    ========================================================================== */
 
 #headerwrap {
-  background: url(../img/header-bg.jpg) no-repeat center top;
+  background: url(../img/tennis_bg.jpg) no-repeat center top;
   margin-top: -10px;
   padding-top: 20px;
   text-align: center;
@@ -209,7 +209,7 @@ hr {
 }
 
 .menu a>i {
-  float: left;
+  float: left;  
   display: inline-block;
   vertical-align: middle;
   text-align: left;
