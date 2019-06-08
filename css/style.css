@@ -10,7 +10,7 @@ body {
   font-family: 'EB Garamond', serif;
   font-weight: 300;
   font-size: 16px;
-  color: #555;
+  color: white;
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
 }
@@ -137,13 +137,12 @@ hr {
 
 #f p {
   font-size: 20px;
-  color: #f2f2f2;
+  color: white;
 }
 
 #f img {
   text-align: center;
 }
-
 /* MENU CONF*/
 
 .menu {
