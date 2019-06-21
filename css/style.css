@@ -431,3 +431,8 @@ hr {
 .credits {
   color: #999;
 }
+
+/* 追加　　*/
+.carousel-inner{
+  height: 480px;
+}
